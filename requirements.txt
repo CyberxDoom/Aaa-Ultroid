@@ -5,4 +5,4 @@ python-decouple
 python-dotenv
 psycopg2
 pytgcalls==3.0.0.dev21
-
+aiohttp
