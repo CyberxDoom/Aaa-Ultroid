@@ -5,3 +5,4 @@ https://github.com/buddhhu/Telethon-Patch/archive/refs/heads/main.zip
 python-decouple
 python-dotenv
 py-Ultroid==2022.6.6
+psycopg2
