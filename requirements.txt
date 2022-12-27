@@ -6,3 +6,4 @@ python-decouple
 python-dotenv
 py-Ultroid==2022.6.6
 psycopg2
+git
