@@ -9,7 +9,7 @@ import os, subprocess
 from shutil import rmtree
 
 from decouple import config
-from git import Repo
+
 from .. import *
 from ..dB._core import HELP
 from ..loader import Loader
